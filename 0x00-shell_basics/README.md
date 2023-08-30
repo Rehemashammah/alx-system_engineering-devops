@@ -11,3 +11,4 @@ Delete first directory
 Back to the future
 Lists
 File type
+Symbolic links
