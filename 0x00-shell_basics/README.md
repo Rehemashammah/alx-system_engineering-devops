@@ -2,3 +2,4 @@ Script prints the absolute path name of current working directory
 Script to list the contents of a directory
 Script to change working directory to user's home directory
 Script to display contents in long format
+Scrit to display directory contents including hidden files in long format
