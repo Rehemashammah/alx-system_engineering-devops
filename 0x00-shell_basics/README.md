@@ -7,3 +7,4 @@ Script to list files digit only
 Create directory on welcome
 Move file Betty
 Delete Betty
+Delete first directory
