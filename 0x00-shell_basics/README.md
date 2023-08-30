@@ -6,3 +6,4 @@ Script to display directory contents including hidden files in long format
 Script to list files digit only
 Create directory on welcome
 Move file Betty
+Delete Betty
