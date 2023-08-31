@@ -5,3 +5,4 @@ Change file ownership
 Create an empty file
 Add execution permission
 Multiple permissions
+Execution permission to owner, group owner and other users
