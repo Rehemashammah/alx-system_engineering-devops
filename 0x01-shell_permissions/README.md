@@ -11,3 +11,4 @@ All permissions to user, read and execute permissiont to group and write and exe
 Mirror permissions
 Directories
 More directories
+Change group
