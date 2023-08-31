@@ -10,3 +10,4 @@ James Bond
 All permissions to user, read and execute permissiont to group and write and execute to other users.
 Mirror permissions
 Directories
+More directories
